@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Emmanuel Osaka! 👋
 
-<!--
-**Osaka001/Osaka001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate **SoftwareEngineer** with medium experience in **BackendWebDevelopment**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+
+- 🌱 Currently learning: **BackendWebDevelopment**
+- 🌍 Languages: **Python, C++, English**
+- 📫 How to reach me: **odiaseemmanuel62@gmail.com**
+- ⚡ Fun fact: **I love music and i play 3 musical instruments**
+
+
+## Featured Projects 💻
+
+### [Grow Easy Hub] (https://drive.google.com/file/d/1eBB30Szix4DAp4ElP3Ak89pdx0dkQQiQ/view?usp=drivesdk)
+
+## Get in Touch 📬
+
+- **[LinkedIn]**(https://www.linkedin.com/in/emmanuel-odiase-347877235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **[Twitter]**(https://x.com/Godsfirstson_?s=09)
+
+
